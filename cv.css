@@ -1,0 +1,64 @@
+
+h2
+{
+    text-align: center;
+	color:black;
+}
+.niveau
+{
+    text-shadow: 2px 2px 4px red;
+	text-decoration:underline;	
+}
+
+.image
+{
+	width: 120px;
+	height: 150px;
+	display:block;
+	width:auto;
+	margin-left:auto;
+	margin-right: auto;
+	border:4px #F8998F solid;
+	}
+.objectif
+{
+   border: 2px solid black;
+   margin:auto;
+   width:400px;
+   text-align: center;  
+}	
+.niv
+{
+text-align: center;  
+}	
+a:visited 
+	{
+	color: blue;
+	}
+	  
+	 a:hover /* Apparence au survol des liens */
+{
+   text-decoration: underline;
+   text-align: center;
+   color: green;
+}
+body{
+	background-image:url("./img3.jpg");
+	opacity: 10px;
+	}
+.mdl-slider__container {
+    background-color: white !important; /* Met le fond de la barre en blanc */
+    position: fixed !important; /* Permet de définir la position de la barre comme fixe */
+    top: 0; /* Défini la postion de la barre en haut */
+    z-index: 200; /* Une valeur élevée ici permet de s'assurer que l'élément est au dessus des autres */
+    width: 100vw; /* Défini la largeur de l'élément comme étant 100% de la largeur de l'écran */
+}
+
+	
+	
+
+
+
+
+
+
